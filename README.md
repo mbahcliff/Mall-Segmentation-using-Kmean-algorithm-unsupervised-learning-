@@ -67,4 +67,4 @@ This involves understanding my dataset by placing it in a visual context so that
  ![Capture50](https://user-images.githubusercontent.com/74493164/99185374-72483d00-2717-11eb-85f8-83ba5982342f.PNG)
  
  # Conclusion
-I have analyzed Customer data and performed 2D and 3D clustering using KMeans Algorithm. This kind of cluster analysis helps design better customer acquisition strategies and helps in business growth.
+I have analyzed customer data and performed 2D and 3D clustering using KMeans Algorithm. This kind of cluster analysis helps design better customer acquisition strategies and helps in business growth.
