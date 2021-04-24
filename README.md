@@ -11,11 +11,11 @@ KMean clustering algorithm is one of the well known algorithm for clustering dat
 
 # Problem Statement
 
-I own a super market and through a membership card, I have some basic data about my customers like CustomerID, age, gender, annual incmome and spending score. I want to understand the customers so that I will have a sense about what each customer is interested in and how I will be able to target them
+A market owner through a membership card, has some basic data about his/her customers like CustomerID, age, gender, annual incmome and spending score and to understand the customers so that I will have a sense about what each customer is interested in and how I will be able to target them
 
 # Business goal
 
-My goal is to perform customer segmentation. Customer segmentation is the activity of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics. I hope to gain a deeper understanding of our customers preferences and to discover what each sub group or cluster finds most valuable to them
+My goal is to use Kmean clustering algorithm to perform customer segmentation. Customer segmentation is the activity of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics. I hope to gain a deeper understanding of our customers preferences and to discover what each sub group or cluster finds most valuable to them.
 
 # Data Source
 
